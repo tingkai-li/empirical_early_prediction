@@ -21,9 +21,9 @@ A critical element of our framework is the end-to-end optimization problem formu
 The proposed end-to-end learning approach achieves prediction accuracies of less than 2% mean absolute error for in-distribution test samples and less than 4% mean absolute error for out-of-distribution samples using standard machine learning algorithms.
 Additionally, the end-to-end framework is extended to enable probabilistic predictions, showing the model uncertainty estimates are appropriately calibrated, even for out-of-distribution samples.
 
-![Figure 1: An overview of the early trajectory prediction problem studied in this work.](https://github.com/tingkai-li/empirical_early_prediction/Figure1.png)
+![Figure 1: An overview of the early trajectory prediction problem studied in this work.](https://github.com/tingkai-li/empirical_early_prediction/blob/main/Figure1.png)
 *Figure 1: Overview of the early trajectory prediction problem studied in this work.*  
-![Figure 2: Overview of capacity trajectory prediction approaches. (a) Knot point-based prediction of empirical model parameters; (b) sequential prediction of empirical model parameters; (c) end-to-end prediction of empirical model parameters.](https://github.com/tingkai-li/empirical_early_prediction/Figure2.png)
+![Figure 2: Overview of capacity trajectory prediction approaches. (a) Knot point-based prediction of empirical model parameters; (b) sequential prediction of empirical model parameters; (c) end-to-end prediction of empirical model parameters.](https://github.com/tingkai-li/empirical_early_prediction/blob/main/Figure2.png)
 *Figure 2: Overview of capacity trajectory prediction approaches. (a) Knot point-based prediction of empirical model parameters; (b) sequential prediction of empirical model parameters; (c) end-to-end prediction of empirical model parameters.*
 </p>
 
