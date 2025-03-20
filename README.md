@@ -1,5 +1,5 @@
 # empirical_early_prediction
-This repository contains the Python scripts and processed data required to recreate the results presented in the paper “Coupling a Capacity Fade Model with Machine Learning for Early Prediction of the Battery Capacity Trajectory”, accepted for publication in *Applied Energy* (DOI pending)  
+This repository contains the Python scripts and processed data required to recreate the results presented in the paper “Coupling a Capacity Fade Model with Machine Learning for Early Prediction of the Battery Capacity Trajectory”, accepted for publication in *Applied Energy* (DOI: [10.1016/j.apenergy.2025.125703](https://doi.org/10.1016/j.apenergy.2025.125703))  
 *Questions about the scripts and data provided in this repository can be directed to Tingkai Li ([tingkai.li@uconn.edu](mailto:tingkai.li@uconn.edu))*
 
 ## Paper Details
